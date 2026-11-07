@@ -1,1 +1,3 @@
-# oslab3
+## Output
+
+![Lab 3 Output](screenshots/lab3.png)
